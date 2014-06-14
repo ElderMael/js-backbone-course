@@ -1,0 +1,5 @@
+{
+  "directory": "vendors",
+  "proxy": "http://http-proxy.health.ge.com:88",
+  "https-proxy": "http://http-proxy.health.ge.com:88"
+}
